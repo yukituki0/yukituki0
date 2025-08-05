@@ -1,10 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=E3F9FF&text=SeolPlace&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=50&descAlignY=50&fontAlignY=35&fontAlign=80&descAlign=80&stroke=BDECFF&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&section=header)
+# Hello! I'm Seoruju💫
+- 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0) and solving days.
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)
+<img src="http://mazandi.herokuapp.com/api?handle=yukituki0&theme=warm"/>
+
+and my github.
+
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukituki0)](https://github.com/yukituki0/github-readme-stats)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&text=SeolPlace&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
 
 <!--
-**yukituki0/yukituki0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
