@@ -7,7 +7,7 @@
 
 and my github.
 
-![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+![Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukituki0&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukituki0)](https://github.com/yukituki0/github-readme-stats)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&text=SeolPlace&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
 
