@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0) and solving days.
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)
-<img src="http://mazandi.herokuapp.com/api?handle=yukituki0&theme=warm"/>
 
 and my github.
 
