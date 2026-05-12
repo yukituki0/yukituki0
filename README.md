@@ -4,11 +4,9 @@
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)
 
-and my github.
+and my discord server.
 
-![Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukituki0&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukituki0)](https://github.com/yukituki0/github-readme-stats)
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&text=SeolPlace&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
+https://discord.gg/rw2AuAKa88
 
 <!--
 - 🔭 I’m currently working on ...
