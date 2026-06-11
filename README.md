@@ -4,7 +4,6 @@
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)
 
-and my discord server link -> -> https://discord.gg/rw2AuAKa88
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&text=Seoruju&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
 <!--
 - 🔭 I’m currently working on ...
