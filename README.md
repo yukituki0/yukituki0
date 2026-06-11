@@ -6,6 +6,8 @@
 
 but.. baekjoon is down... so I use atcoder for studying problem solving & compepetive programming
 
+[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=seoruju)](https://atcoder.jp/users/seoruju)
+
 and I'm interested in cybersecurity, ai, algorithm.
 
 
