@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&section=header)
 # Hello! I'm Seoruju💫
-- 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0) and solving days.
-  
+
+- 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)
+
+but.. baekjoon is down... so I use atcoder for studying problem solving & compepetive programming
+
+and I'm interested in cybersecurity, ai, algorithm.
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&text=Seoruju&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
 <!--
