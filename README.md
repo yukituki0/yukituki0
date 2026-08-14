@@ -7,10 +7,5 @@
 
 - but.. baekjoon is down... so I use atcoder for studying problem solving & compepetive programming, and codeforces ( Still participating in the competition X )
 
-[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=seoruju)](https://atcoder.jp/users/seoruju)
-[![CodeForces Profile](https://cf.leed.at?id={seoruju})](https://codeforces.com/profile/{seoruju})
-
-and I'm interested in cybersecurity, ai, algorithm.
-
-
+- and I'm interested in cybersecurity, ai, algorithm.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFADFA,100:FFFFFF&section=footer&descAlign=31&&reversal=false)
