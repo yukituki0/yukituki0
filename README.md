@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=#D166FFED&section=header)](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&descAlign=31&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFFFFF,100:FFADFA&&section=header&descAlign=31)
 # Hello! I'm Seoruju💫
 
 - 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)  
@@ -13,4 +13,4 @@
 and I'm interested in cybersecurity, ai, algorithm.
 
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=#D166FFED&text=SEO&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&descAlign=31&reversal=false)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFADFA,100:FFFFFF&section=footer&descAlign=31&&reversal=false)
