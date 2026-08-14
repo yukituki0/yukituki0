@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=E3F9FF&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=#D166FFED&section=header)
 # Hello! I'm Seoruju💫
 
 - 🌱 I’m currently learning ... C++ algorithm problem solving! here is my baekjoon tier [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yukituki0)](https://solved.ac/yukituki0)  
