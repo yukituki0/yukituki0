@@ -13,4 +13,4 @@
 and I'm interested in cybersecurity, ai, algorithm.
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=#D166FFED&text=SEO&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=D166FFED&text=SEO&section=footer&reversal=false&fontColor=FFFFFF&fontSize=50&fontAlign=85&fontAlignY=81)
